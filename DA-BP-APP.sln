@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA-BP-APP", "DA-BP-APP\DA-BP-APP.csproj", "{F2B9E7C5-D750-4E40-9423-0B359CCE8130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B9E7C5-D750-4E40-9423-0B359CCE8130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B9E7C5-D750-4E40-9423-0B359CCE8130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B9E7C5-D750-4E40-9423-0B359CCE8130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B9E7C5-D750-4E40-9423-0B359CCE8130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18EFAA7D-662C-4800-9678-487C1A586DBE}
+	EndGlobalSection
+EndGlobal

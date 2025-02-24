@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS BarangayProduction (
+    ProductionID INT PRIMARY KEY AUTO_INCREMENT,
+    Barangay VARCHAR(100) NOT NULL,
+    Area DECIMAL(10,2) NOT NULL,
+    Production DECIMAL(10,2) NOT NULL,
+    AverageYield DECIMAL(10,2) NOT NULL,
+    RecordDate DATETIME NOT NULL,
+    CreatedDate DATETIME DEFAULT CURRENT_TIMESTAMP
+); 
